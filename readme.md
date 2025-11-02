@@ -32,6 +32,9 @@
 <img src="icons/dart.svg" height="50" width="50" alt="Logo Dart"><img width="12">
 <!-- <img src="icons/typescript.svg" height="50" width="50" alt="Logo TypeScript"><img width="12"> -->
 
+<!-- #### Jogos: -->
+<!-- <img src="icons/godot.svg" height="50" width="50" alt="Logo Godot"><img width="12"> -->
+
 #### Frontend:
 <img src="icons/html5.svg" height="50" width="50" alt="Logo HTML5"><img width="12">
 <img src="icons/css3.svg" height="50" width="50" alt="Logo CSS3"><img width="12">
@@ -47,12 +50,18 @@
 <img src="icons/sqlite.svg" height="50" width="50" alt="Logo SQLite"><img width="12">
 <!-- <img src="icons/mongodb.svg" height="50" width="50" alt="Logo MongoDB"><img width="12"> -->
 
-#### Ferramentas:
+<!-- #### DevOps e Infraestrutura: -->
+<!-- <img src="icons/docker.svg" height="50" width="50" alt="Logo Docker"><img width="12"> -->
+<!-- <img src="icons/kubernetes.svg" height="50" width="50" alt="Logo Kubernetes"><img width="12"> -->
+<!-- <img src="icons/apache.svg" height="50" width="50" alt="Logo Apache"><img width="12"> -->
+<!-- <img src="icons/nginx.svg" height="50" width="50" alt="Logo NGINX"><img width="12"> -->
+
+#### Ferramentas (versionamento, IDEs e OSs):
 <img src="icons/git.svg" height="50" width="50" alt="Logo Git"><img width="12">
 <img src="icons/github.svg" height="50" width="50" alt="GitHub"><img width="12">
 <img src="icons/vscode.svg" height="50" width="50" alt="Logo VScode"><img width="12">
 <img src="icons/pycharm.svg" height="50" width="50" alt="Logo PyCharm"><img width="12">
-<!-- <img src="icons/apache.svg" height="50" width="50" alt="Logo Apache"><img width="12"> -->
+<img src="icons/linux.svg" height="50" width="50" alt="Logo Linux"><img width="12">
 
 ---
 
