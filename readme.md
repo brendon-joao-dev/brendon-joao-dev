@@ -6,7 +6,7 @@
 <p align="center">
   🚀 Desenvolvedor Fullstack com 1+ ano de experiência<br>
   💡 Apaixonado por resolver problemas através da tecnologia<br>
-  📚 Atualmente aprofundando conhecimentos em PHP<br>
+  📚 Atualmente estudando desenvolvimento mobile e desenvolvendo portfólio<br>
   🔗 Disponível para colaborações e oportunidades profissionais
 </p>
 
@@ -15,7 +15,7 @@
 ### 🎯 Sobre Mim
 
 - ✨ **Atualmente:** Programador WEB fullstack
-- 📚 **Estudando:** PHP
+- 📚 **Estudando:** Dart
 - 🎯 **Objetivos:** 
   - Fundar uma empresa de desenvolvimento de software
   - Tornar-me professor na área de TI
