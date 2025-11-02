@@ -30,29 +30,29 @@
 <img src="icons/javascript.svg" height="50" width="50" alt="Logo JavaScript"/><img width="12">
 <img src="icons/php.svg" height="50" width="50" alt="Logo PHP"><img width="12">
 <img src="icons/dart.svg" height="50" width="50" alt="Logo Dart"><img width="12">
-<img src="icons/typescript.svg" height="50" width="50" alt="Logo TypeScript"><img width="12">
+<!-- <img src="icons/typescript.svg" height="50" width="50" alt="Logo TypeScript"><img width="12"> -->
 
 #### Frontend:
 <img src="icons/html5.svg" height="50" width="50" alt="Logo HTML5"><img width="12">
 <img src="icons/css3.svg" height="50" width="50" alt="Logo CSS3"><img width="12">
-<img src="icons/react.svg" height="50" width="50" alt="Logo React"><img width="12">
-<img src="icons/reactnative.svg" height="50" width="50" alt="Logo React Native"><img width="12">
-<img src="icons/flutter.svg" height="50" width="50" alt="Logo Flutter"><img width="12">
+<!-- <img src="icons/react.svg" height="50" width="50" alt="Logo React"><img width="12"> -->
+<!-- <img src="icons/reactnative.svg" height="50" width="50" alt="Logo React Native"><img width="12"> -->
+<!-- <img src="icons/flutter.svg" height="50" width="50" alt="Logo Flutter"><img width="12"> -->
 
-#### Backend:
-<img src="icons/nodejs.svg" height="50" width="50" alt="Logo Node.js"><img width="12">
+<!-- #### Backend: -->
+<!-- <img src="icons/nodejs.svg" height="50" width="50" alt="Logo Node.js"><img width="12"> -->
 
 #### Banco de Dados:
 <img src="icons/mysql.svg" height="50" width="50" alt="Logo MySQL"><img width="12">
 <img src="icons/sqlite.svg" height="50" width="50" alt="Logo SQLite"><img width="12">
-<img src="icons/mongodb.svg" height="50" width="50" alt="Logo MongoDB"><img width="12">
+<!-- <img src="icons/mongodb.svg" height="50" width="50" alt="Logo MongoDB"><img width="12"> -->
 
 #### Ferramentas:
 <img src="icons/git.svg" height="50" width="50" alt="Logo Git"><img width="12">
 <img src="icons/github.svg" height="50" width="50" alt="GitHub"><img width="12">
 <img src="icons/vscode.svg" height="50" width="50" alt="Logo VScode"><img width="12">
 <img src="icons/pycharm.svg" height="50" width="50" alt="Logo PyCharm"><img width="12">
-<img src="icons/apache.svg" height="50" width="50" alt="Logo Apache"><img width="12">
+<!-- <img src="icons/apache.svg" height="50" width="50" alt="Logo Apache"><img width="12"> -->
 
 ---
 
